@@ -48,7 +48,7 @@ Before you begin, ensure you have the following installed:
 4. Copy the `.env.example` file to `.env`:
 
     ```bash
-    cp .env.example .env
+     cp .env.example .env
     ```
 
 5. Configure your database connection in the `.env` file.
